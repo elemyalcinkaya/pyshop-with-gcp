@@ -1,5 +1,5 @@
 # Açıklama
-Bu repo orjinali olan "https://github.com/thisishaykins/PyShop" adresinden alınmıştır. Projeye; Google Cloud teknolojileri eklenmiş, load balancer ile yük dengeleme yapılmış, PostgreSql ile de veritabanı teknolojileri entege edilip geliştirilmiştir.
+Bu repo orjinali olan "https://github.com/thisishaykins/PyShop" adresinden alınmıştır. Projeye; Google Cloud teknolojileri eklenmiş, load balancer ile yük dengeleme yapılmış, PostgreSql ile de veritabanı teknolojileri entegRe edilip geliştirilmiştir.
 settings.py dosyasında gerekli değişiklikler yapılmıştır.
 # PyShop
 
